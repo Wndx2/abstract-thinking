@@ -5,7 +5,7 @@ To Research:
   - $AB = -\frac{b}{a}$, and $A+B = \frac{c}{a}$
     - $3x^2+4x-k$ 2 distinct roots, $k$ and 2nd root question (91261 yearUnknown)
 - [walkthrough] 91261 2022 (logarithmic:ii)
-- [check] $\lne$
+- [check] $lne$
 - [walkthrough] equal but opposite signs that mean $b = 0$
 - [walkthrough] 91262 2013 integrating with double unknowns $(f'(x)=mx+2)$
 - [check] giving inequality (91261 yearUnknown) in terms of $m$ and $n$ for 2 distinct roots
