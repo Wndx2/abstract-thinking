@@ -1,4 +1,7 @@
-?:
+(the crazy questions)\
+these are my personal notes, so if you don't get them it's alright
+
+---
 
 (starred on paper ver)
 
